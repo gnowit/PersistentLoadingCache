@@ -8,5 +8,5 @@ This released currently includes a simple filesystem-based persistence strategy,
 # NOTE:
 This library is in early alpha, and is not ready for production deployment at this time.
 
-# License:
-Apache 2.0
+# License
+Open-source under the Apache 2.0 license
